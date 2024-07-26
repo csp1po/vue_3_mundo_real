@@ -259,9 +259,9 @@ E com isso, refatoramos nosso código de API em uma camada de serviço modular. 
 ![modular_layer_service](img_readme/modular_layer_service.jpg)
 
 
-### **Passo 6. Fazendo o Fechamento**
+### **Passo 5. Fazendo o Fechamento**
 
-6.1 Repita o procedimento efetuado no **Passo 3.10** do **Tutorial 3** para visualizarmos no browser o que acabamos de fazer no passo anterior. Você verá algo como a figura abaixo.
+5.1 Repita o procedimento efetuado no **Passo 3.10** do **Tutorial 3** para visualizarmos no browser o que acabamos de fazer no passo anterior. Você verá algo como a figura abaixo.
 
 ![example_app_t4](img_readme/example_app_t4.jpg)
 
