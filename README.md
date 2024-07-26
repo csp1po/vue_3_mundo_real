@@ -31,7 +31,7 @@ Para a **Parte 1**, portanto, nossas tarefas a serem executadas são:
 * Tornar ``EventCard`` clicável para que possamos acessar esta nova rota chamada ``EventDetailsView``
 
 
-##Parte 1
+## Parte 1
 
 ### **Passo 1. Criando O Componente ``EventDetailsView``**
 
@@ -206,7 +206,7 @@ Se verificarmos isso no browser, veremos um erro no console ao clicarmos em um e
 Isso nos leva ao final da **Parte 1** e ao início da **Parte 2**, onde tornamos esse comportamento de roteamento dinâmico para que possamos rotear os detalhes de qualquer ``EventCard`` em que clicarmos.
 
 
-##Parte 2
+## Parte 2
 
 Para tornar nosso comportamento de roteamento dinâmico, precisamos trocar o ``id`` codificado em nosso caminho (**/123**) e substituí-lo por um segmento dinâmico. Este é basicamente um parâmetro variável para o caminho do URL, que é atualizado com o ``id`` de qualquer evento exibido atualmente nessa rota. A figura abaixo mostra o que pretendemos fazer.
 
