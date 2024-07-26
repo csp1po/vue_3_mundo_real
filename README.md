@@ -265,4 +265,4 @@ E com isso, refatoramos nosso código de API em uma camada de serviço modular. 
 
 ![example_app_t4](img_readme/example_app_t4.jpg)
 
-Ao visualizar nossos eventos no browser, os ``EventCards` parecem clicáveis. Não seria legal se pudéssemos clicar neles e ver mais detalhes sobre esse evento? No próximo tutorial, aprenderemos como fazer isso usando as habilidades de roteamento dinâmico do **Vue Router**.
+Ao visualizar nossos eventos no browser, os `EventCards` parecem clicáveis. Não seria legal se pudéssemos clicar neles e ver mais detalhes sobre esse evento? No próximo tutorial, aprenderemos como fazer isso usando as habilidades de roteamento dinâmico do **Vue Router**.
