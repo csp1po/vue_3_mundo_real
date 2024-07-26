@@ -85,7 +85,7 @@ Dando uma olhada dentro deste novo diretório ``dist``, veremos uma pasta chamad
 
 > Quando olhamos dentro desse arquivo, vemos que nossos arquivos construídos foram injetados automaticamente.
 
-Agora que entendemos como é esse processo de construção (i.e. _building_), como realmente implementamos esse código na produção? ë o que veremos no próximo passo.
+Agora que entendemos como é esse processo de construção (i.e. _building_), como realmente implementamos esse código na produção? É o que veremos no próximo passo.
 
 
 ### **Passo 2. Uma dor de cabeça de alto risco**
