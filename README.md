@@ -281,7 +281,7 @@ defineProps({
 Agora, quando clicamos neste ``RouterLink``, somos roteados para ``EventDetailsView`` e o caminho da rota é anexado com o ``id`` do evento.
 
 
-5.2 Agora podemos finalmente alimentar esse parâmetro ``id`` no componente ``EventDetailsView`` como uma ``prop``. Abra o arquivo "src/views/EventDetailsView.vue" e altere o seu conteúdo como o abaixo.
+5.2 Agora podemos finalmente alimentar esse parâmetro ``id`` no componente ``EventDetailsView`` como uma ``prop``. Abra o arquivo "**src/views/EventDetailsView.vue**" e altere o seu conteúdo como o abaixo.
 
 ```javascript
 <script setup>
