@@ -328,6 +328,6 @@ export default router
 ![example_app_t4](img_readme/example_app_t4.jpg)
 
 
-### **Passo 7. Fazendo o Fechamento**
+### **Passo 6. Fazendo o Fechamento**
 
 Neste tutorial aprendemos os conceitos básicos do **Vue Router**. No próximo tutorial, aprenderemos como buscar nossos eventos como dados externos que extraímos por meio de uma chamada de API usando o Axios.
