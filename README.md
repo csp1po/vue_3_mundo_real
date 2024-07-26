@@ -193,13 +193,13 @@ Com esse _catchall_ implementado, agora resolvemos nosso problema e implantamos 
 
 ### **Passo 4. Fazendo um Tour com o Render**
 
-####Guia (Tab) ``Events``
+#### Guia (Tab) ``Events``
 
 Já vimos a guia ``Redirects/Rewrites``, mas existem outras guias aqui que são igualmente úteis, como ``Events``, que mostra um histórico de implantações que foram feitas. É aqui que podemos executar uma reversão para uma compilação anterior, se necessário. Ver figura abaixo.
 
 ![render_events_tab](img_readme/render_events_tab.jpg)
 
-####Guia (Tab) ``Pull Requests``
+#### Guia (Tab) ``Pull Requests``
 
 Vamos explorar agora a guia ``Pull Request`` (**PR**). Nela, você pode habilitar os _pull requests_ e o Render criará automaticamente uma nova instância do seu site sempre que uma _pull request_ for criada em sua ramificação implantada (i.e. _deployed branch_). Com seu próprio URL, ele pode ser usado para revisar o código antes da fusão e será excluído automaticamente quando o **PR** for fechado. Isso facilita os testes e a colaboração.
 
@@ -208,7 +208,7 @@ Falando em colaboração, você também pode criar e trabalhar em equipes no Ren
 ![render_team_collaboration](img_readme/render_team_collaboration.jpg)
 
 
-####Render efetua a escalabilidade com você
+#### Render efetua a escalabilidade com você
 
 À medida que seu aplicativo escala, talvez com um back-end mais robusto ou alguma renderização do lado do servidor, você também pode escalar seus serviços do **Render** — horizontalmente (adicionar mais instâncias de um serviço) ou verticalmente (adicionar mais CPU e RAM a uma instância) — com recursos incluindo:
 
