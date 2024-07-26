@@ -210,7 +210,7 @@ Falando em colaboração, você também pode criar e trabalhar em equipes no Ren
 
 #### Render efetua a escalabilidade com você
 
-À medida que seu aplicativo escala, talvez com um back-end mais robusto ou alguma renderização do lado do servidor, você também pode escalar seus serviços do **Render** — horizontalmente (adicionar mais instâncias de um serviço) ou verticalmente (adicionar mais CPU e RAM a uma instância) — com recursos incluindo:
+À medida que seu aplicativo escala, talvez com um _back-end_ mais robusto ou alguma renderização do lado do servidor, você também pode escalar seus serviços do **Render** — horizontalmente (adicionar mais instâncias de um serviço) ou verticalmente (adicionar mais CPU e RAM a uma instância) — com recursos incluindo:
 
 * Serviços web
 * Bancos de Dados PostgreSQL gerenciados
