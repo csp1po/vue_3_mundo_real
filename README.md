@@ -56,7 +56,7 @@ Se dermos uma olhada no arquivo "**package.json**" do nosso projeto, veremos ess
 },
 ```
 
-Já estamos familiarizados com a execução do comando ``dev`` para ativar nosso projeto em um host local. Nós o usamos ao longo deste curso enquanto desenvolvemos o código do aplicativo. Já que estamos prontos para levar nosso projeto para o mundo real, podemos passar a usar o comando ``build``, que obviamente transforma nosso projeto em um produto utilizável que pode ser implantado. Vamos ver o que acontece quando digitamos o comando ``npm run build`` em nosso terminal (estando na pasta raiz do projeto).
+Já estamos familiarizados com a execução do comando ``dev`` para ativar nosso projeto em um host local. Nós o usamos ao longo dos tutoriais enquanto desenvolvemos o código do aplicativo. Já que estamos prontos para levar nosso projeto para o mundo real, podemos passar a usar o comando ``build``, que obviamente transforma nosso projeto em um produto utilizável que pode ser implantado. Vamos ver o que acontece quando digitamos o comando ``npm run build`` em nosso terminal (estando na pasta raiz do projeto).
 
 #### Terminal
 ```
