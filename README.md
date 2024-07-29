@@ -67,7 +67,7 @@ onMounted(() => {
 
 ![url_api_call](img_readme/url_api_call.jpg)
 
-> Este é o tipo de URL que usaremos ao buscar um único evento, onde termina com o ``id` do evento. Vamos entrar em nosso arquivo ``EventService`` e adicionar essa chamada de API agora.
+> Este é o tipo de URL que usaremos ao buscar um único evento, onde termina com o ``id`` do evento. Vamos entrar em nosso arquivo ``EventService`` e adicionar essa chamada de API agora.
 
 1.2 Abra o arquivo "**src/services/EventService.js**" e adicione o conteúdo abaixo nele.
 
