@@ -201,7 +201,7 @@ Se verificarmos isso no browser, veremos um erro no console ao clicarmos em um e
 
 ![cat_adoption_day_event](img_readme/cat_adoption_day_event.jpg)
 
-> No entanto, se clicarmos em qualquer outro ``EventCard``, ainda estamos obtendo os mesmos detalhes do "_Cat Adoption Day_", e o ``id`` no final de nosso URL é o mesmo: **123**. Isso é esperado, já que codificamos o ``id`` que estamos passando para a chamada ``getEvent`` e no caminho da rota ``EventDetails`.
+> No entanto, se clicarmos em qualquer outro ``EventCard``, ainda estamos obtendo os mesmos detalhes do "_Cat Adoption Day_", e o ``id`` no final de nosso URL é o mesmo: **123**. Isso é esperado, já que codificamos o ``id`` que estamos passando para a chamada ``getEvent`` e no caminho da rota ``EventDetails``.
 
 Isso nos leva ao final da **Parte 1** e ao início da **Parte 2**, onde tornamos esse comportamento de roteamento dinâmico para que possamos rotear os detalhes de qualquer ``EventCard`` em que clicarmos.
 
