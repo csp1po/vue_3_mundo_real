@@ -218,7 +218,7 @@ Para tornar nosso comportamento de roteamento dinâmico, precisamos trocar o ``i
 
 ### **Passo 4. Adicionando um segmento dinâmico à rota ``EventDetailsView``**
 
-Vamos começar e adicionar um segmento dinâmico ao caminho da rota ``EventDetailsView`.
+Vamos começar e adicionar um segmento dinâmico ao caminho da rota ``EventDetailsView``.
 
 4.1 Abra o arquivo "**src/router/index.js**" e altere o seu conteúdo conforme abaixo.
 
