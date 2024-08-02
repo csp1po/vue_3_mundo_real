@@ -360,7 +360,7 @@ Por uma questão de consistência, também podemos atualizar o arquivo ``App.vue
 ```javascript
 <div class="wrapper">
   <nav>
-    <RouterLink :to="{ name: 'event-list' }">Events</RouterLink> |
+    <RouterLink :to="{ name: 'home' }">Events</RouterLink> |
     <RouterLink :to="{ name: 'about' }">About</RouterLink>
   </nav>
 </div>
