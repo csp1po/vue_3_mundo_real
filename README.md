@@ -370,7 +370,7 @@ const events = ref([
 </template>
 ```
 
-5.3 Agora que ``HomeView.vue`` tem os dados dos eventos, podemos usá-los para criar um novo ``EventCard`` para cada um dos objetos de evento que estão nesses dados, usando a diretiva ``v-for``. Para isto, abra o arquivo "src/views/HomeView.vue" e altere o conteúdo que trata da seção ``<template>``para o código abaixo.
+5.3 Agora que ``HomeView.vue`` tem os dados dos eventos, podemos usá-los para criar um novo ``EventCard`` para cada um dos objetos de evento que estão nesses dados, usando a diretiva ``v-for``. Para isto, abra o arquivo "**src/views/HomeView.vue**" e altere o conteúdo que trata da seção ``<template>``para o código abaixo.
 
 ```
 <template>
@@ -434,7 +434,7 @@ h2 {
 </style>
 ```
 
-6.3 Agora, qualquer elemento ``<h2>`` em nosso aplicativo terá um tamanho de fonte de 20px. Como o template do nosso ``EventCard`` possui um ``<h2>``, ele receberá esse novo estilo global. Abra o arquivo "src/components/EventCard.vue" e altere o conteúdo da seção ``<template>``para o trecho de código abaixo.
+6.3 Agora, qualquer elemento ``<h2>`` em nosso aplicativo terá um tamanho de fonte de 20px. Como o template do nosso ``EventCard`` possui um ``<h2>``, ele receberá esse novo estilo global. Abra o arquivo "**src/components/EventCard.vue**" e altere o conteúdo da seção ``<template>``para o trecho de código abaixo.
 
 ```
 <template>
